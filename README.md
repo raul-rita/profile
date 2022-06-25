@@ -1,4 +1,7 @@
-<h2>Olá amigos e Devs. Bem vindos ao meu perfil! </h2>
+<h2>Olá devs, eu sou o Raul! 😁</h2>
+<p> Sou um Desenvolvedor Web em formação por um bootcamp. Já tenho uma boa desenvoltura com desenvolvimento frontend e, no momento estou estudando backend e suas tecnologias. Fiquem a vontade para ver os meus projetos.</p>
+ Entre em contato pelo <b><a href="https://www.linkedin.com/in/raul-rita/">Linkedin</a></b> ou pelo email raul.vinicius@live.com
+ <br></br>
  
  <div>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=raul-rita&show_icons=true&theme=tokyonight ">
@@ -39,4 +42,3 @@
   <a href="https://www.instagram.com/raulrita_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  

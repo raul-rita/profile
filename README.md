@@ -1,7 +1,9 @@
 <h2>Olá amigos e Devs. Bem vindos ao meu perfil! </h2>
  
- <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=raul-rita&show_icons=true&theme=tokyonight">
- 
+ <div>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=raul-rita&show_icons=true&theme=tokyonight ">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rita&layout=compact&theme=tokyonight">
+ </div>
  
 <h2>Tecnologias que domino</h2>
 
@@ -28,7 +30,6 @@
     <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
     <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img alt="TRELLO" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-    <img alt="PHOTOSHOP" src="https://aleen42.github.io/badges/src/photoshop.svg">
   </div>
   
   <h2>Contato</h2>

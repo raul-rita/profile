@@ -4,7 +4,6 @@
  <br></br>
  
  <div>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=raul-rita&show_icons=true&theme=tokyonight ">
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rita&layout=compact&theme=tokyonight">
  </div>
  

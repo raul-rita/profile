@@ -2,7 +2,8 @@
 
 <p>Eu sou o Raul, de Araraquara interior de São Paulo.</p>
 <p>Um Arquiteto e Urbanista por formação e um Desenvolvedor por paixão e escolha.</p>
-<p>Atualmente estou participando da Trilha Full Stack do Programa Desenvolve do 'o Boticário' em parceria com a 'Alura'. Programa que está sendo realizado com os cursos assincronos e sessões de mentorias semanais para desenvolvimento de soft skills.</p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas.</p>
+<p>Participei da Trilha Full Stack do Programa Desenvolve do 'o Boticário' em parceria com a 'Alura'. Programa realizado com os cursos assincronos e sessões de mentorias semanais para desenvolvimento de soft skills.</p>
 
 ## 📊 Github Stats:
 <div>
